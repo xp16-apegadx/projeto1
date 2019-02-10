@@ -1,3 +1,4 @@
+<?php require_once("config.php")?>
 <!DOCTYPE html>
 <!--[if IE]><html lang="pt-br" class="lt-ie9 lt-ie8"><![endif]-->
 <html lang="pt-br">
@@ -10,8 +11,8 @@
 	<meta name="language" content="pt-br" />
 	<meta name="author" content="" />
 	<meta name="language" content="pt-br" />
-    <link rel="canonical" href="https://<?= $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'] ?>" />
-	<link rel="stylesheet" href="<?= $_SERVER['REQUEST_URI'] ?>src/css/swiper.css" type="text/css" />
-	<link rel="stylesheet" href="<?= $_SERVER['REQUEST_URI'] ?>dist/main.css" type="text/css" />
+    <link rel="canonical" href="http://<?= $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'] ?>" />
+	<link rel="stylesheet" href="<?= WWW ?>src/css/swiper.css" type="text/css" />
+	<link rel="stylesheet" href="<?= WWW ?>dist/style.css" type="text/css" />
 </head>
 <body>

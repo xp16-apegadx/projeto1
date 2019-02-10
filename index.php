@@ -1,5 +1,4 @@
 <?php require_once("includes/header.php")?>
 
-<h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, et nesciunt suscipit deserunt molestias a sit doloremque voluptatibus ab. Velit animi modi nisi! Exercitationem hic optio consequatur eos vel pariatur architecto dolore magnam quibusdam accusamus, adipisci, itaque quam assumenda, ullam id necessitatibus animi atque ad blanditiis. Sequi repellat excepturi architecto corporis illum in est vitae modi illo nulla, cum provident sint earum sunt, quaerat neque? Inventore voluptatem commodi blanditiis, id ab quia autem nihil molestiae. Expedita eveniet omnis optio! Molestiae voluptas eveniet ipsum! Labore unde excepturi autem aspernatur asperiores quibusdam ad illo blanditiis tempore dolorum, placeat provident, recusandae ipsam dolorem!</h1>
-
+<h1>Página Home</h1>
 <?php require_once("includes/footer.php")?>

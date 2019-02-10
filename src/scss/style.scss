@@ -1,0 +1,28 @@
+/**** FONTES ****/
+// @font-face {
+//     font-family: 'Open-Sans';
+//     src: url("../src/fonts/OpenSans/OpenSans-Regular.otf");
+// }
+
+/**** Variables ****/
+$white: #fff;
+$black: #000;
+$gray_light: #bdc3c7;
+$gray: #95a5a6;
+$gray_dark: #7f8c8d;
+$blue_light: #cce2e4;
+$blue: #0054ae;
+$blue_dark: #163784;
+
+/**** Import Bootstrap4 ****/
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.bg-gradient{
+    background: #002397;
+    background: -moz-linear-gradient(-45deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
+    background: -webkit-gradient(left top,right bottom,color-stop(0%,rgba(0,35,151,1)),color-stop(100%,rgba(0,178,198,1)));
+    background: -webkit-linear-gradient(-45deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
+    background: -o-linear-gradient(-45deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
+    background: -ms-linear-gradient(-45deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
+    background: linear-gradient(135deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
+}
