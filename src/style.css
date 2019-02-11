@@ -6932,3 +6932,6 @@ a.text-dark:hover, a.text-dark:focus {
   background: -o-linear-gradient(-45deg, #002397 0%, #00b2c6 100%);
   background: -ms-linear-gradient(-45deg, #002397 0%, #00b2c6 100%);
   background: linear-gradient(135deg, #002397 0%, #00b2c6 100%); }
+
+.invalid {
+  border-color: #dc3545; }

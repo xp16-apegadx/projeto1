@@ -1,10 +1,10 @@
-<?php require_once("config.php")?>
+<?php include("config.php"); ?>
 <!DOCTYPE html>
 <!--[if IE]><html lang="pt-br" class="lt-ie9 lt-ie8"><![endif]-->
 <html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
-	<title>???</title>
+	<title>Blog do Frete</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="format-detection" content="telephone=no" />

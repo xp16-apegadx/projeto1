@@ -4,7 +4,7 @@
         <div class="row align-items-center justify-content-center" style="min-height: 100vh">
         <div class="col-md-5 col-12">
         <img src="<?=WWW?>img/logo-pack-log.png" alt="Logo Pack Log" title="Logo Pack Log" class="mx-auto d-block mb-3" />
-            <div class="card card-signin">                        
+            <div class="card card-signin py-">                        
                 <div class="card-body">
                     <h5 class="card-title text-center">Login</h5>
                     <form class="form-signin">

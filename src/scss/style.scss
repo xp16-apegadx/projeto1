@@ -26,3 +26,6 @@ $blue_dark: #163784;
     background: -ms-linear-gradient(-45deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
     background: linear-gradient(135deg,rgba(0,35,151,1) 0%,rgba(0,178,198,1) 100%);
 }
+.invalid {
+    border-color: #dc3545;
+}
