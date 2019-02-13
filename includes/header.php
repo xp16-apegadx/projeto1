@@ -32,6 +32,9 @@
     <meta name="twitter:description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber as principais dicas em 1ª mão!" />
     <meta name="twitter:image" content="https://drive.google.com/open?id=1_bk-Pd3u5M18sb86vEgEKIOz2jL1DFhz" />
     <meta name="twitter:image:alt" content="Blog do Frete" />
+    
+    <link rel="icon" sizes="16x16" href="<?=WWW?>favicon.png">
+    <meta name="theme-color" content="#ffffff">
 
     <link rel="canonical" href="http://<?= $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'] ?>" />
 	<link rel="stylesheet" href="<?= WWW ?>dist/style.css" type="text/css" />
