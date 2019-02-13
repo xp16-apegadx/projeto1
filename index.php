@@ -38,6 +38,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-lg-6">
         <div class="data mb-3">
+          <span class="destaque">multa</span>
+          <span class="data"> 12 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/cabine-automatica-multa-acima-40km.php" class="link-post">
+            <h2 class="post-title text-center">Fique ligado! Cabine automática de pedágio multa motoristas a mais de 40km/h</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/cabine-automatica-multa-acima-40km.php" title="Fique ligado! Cabine automática de pedágio multa motoristas a mais de 40km/h">
+            <img src="http://blogdofrete.com.br/img/radares-em-cabines-automaticas-de-pedagio.jpg" class="panorama" title="Fique ligado! Cabine automática de pedágio multa motoristas a mais de 40km/h" alt="Multa" />
+          </a>
+          <p class="text-justify">Novos radares nas cabines automáticas de pedágios de Coronel Macedo, Jaú e Boa Esperança do Sul, no sudoeste paulista, do tipo lombada eletrônica, já se encontram em operação desde a segunda-feira, 11...</p>
+          <div class="separador"></div>          
+      </div>
+      
+      <div class="col-lg-6">
+        <div class="data mb-3">
           <span class="destaque">fretes</span>
           <span class="data"> 12 de Fev 2019</span>
         </div>
@@ -45,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2 class="post-title text-center">4 dicas de como conseguir novos fretes</h2>
           </a>
           <a href="http://blogdofrete.com.br/4-dicas-como-conseguir-novos-fretes.php" title="4 dicas de como conseguir novos fretes">
-            <img src="http://blogdofrete.com.br/img/4-dicas-de-como-conseguir-novos-fretes.jpg" class="panorama" title="4 dicas de como conseguir novos fretes" alt="novos fretes" />
+            <img src="http://blogdofrete.com.br/img/4-dicas-de-como-conseguir-novos-fretes.jpg" class="panorama" title="4 dicas de como conseguir novos fretes" alt="Novos fretes" />
           </a>
           <p class="text-justify">Existem diversas maneiras de conseguir <strong>novos fretes</strong> para você ou sua empresa, seja você autônomo, tenha alguma pequena transportadora ou seja dono de uma transportadora maior...</p>
           <div class="separador"></div>          
