@@ -30,6 +30,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="col-lg-6">
       <div class="data mb-3">
+        <span class="destaque">negócios</span>
+        <span class="data"> 14 de Fev 2019</span>
+      </div>
+        <a href="http://blogdofrete.com.br/o-que-e-score-e-por-que-ele-e-importante-na-hora-de-financiar-o-seu-veiculo.php" class="link-post" title="O que é Score e por que ele é importante na hora de financiar o seu veículo?">
+          <h2 class="post-title text-center">O que é Score e por que ele é importante na hora de financiar o seu veículo?</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/o-que-e-score-e-por-que-ele-e-importante-na-hora-de-financiar-o-seu-veiculo.php" title="Diferenças entre carga fracionada e carga completa">
+          <img src="http://blogdofrete.com.br/img/o-que-e-score-e-por-que-ele-e-importante.jpg" class="panorama" title="O que é Score e por que ele é importante na hora de financiar o seu veículo?" alt="financiar veiculo" />
+        </a>
+        <p class="text-justify">São vários os fatores que influenciam na concessão de um financiamento, sendo um deles o Score de Crédito. Confira nesse artigo e fique por dentro do assunto!</p>
+        <div class="separador"></div>          
+    </div>
+
+    <div class="col-lg-6">
+      <div class="data mb-3">
         <span class="destaque">empresa</span>
         <span class="data"> 14 de Fev 2019</span>
       </div>
