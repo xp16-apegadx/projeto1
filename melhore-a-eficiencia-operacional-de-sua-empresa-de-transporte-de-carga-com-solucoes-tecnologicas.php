@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>    
         
         <h1 class="post-title text-center">Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas</h1>
-        <img src="http://blogdofrete.com.br/img/melhore-a-eficiência-operacional-de-sua-empresa-de-transporte-de-carga-com-soluções-tecnológicas.jpg" class="panorama" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas" alt="solucoes tecnologicas" />
+        <img src="http://blogdofrete.com.br/img/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.jpg" class="panorama" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas" alt="solucoes tecnologicas" />
           <h2><strong>Aprenda como melhorar a eficiência operacional de sua empresa de transporte de carga através de soluções tecnológicas inovadoras.</strong></h2>
             
           <p>Esse é o segundo artigo da nossa série de artigos sobre a utilização de soluções inovadoras para otimizar os processos logísticos de empresas de <strong>transporte de carga</strong>.</p>
