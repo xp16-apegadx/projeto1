@@ -29,79 +29,94 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="row pt-5">
 
     <div class="col-lg-6">
-        <div class="data mb-3">
-          <span class="destaque">motorista</span>
-          <span class="data"> 14 de Fev 2019</span>
-        </div>
-          <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php" class="link-post" title="8 aplicativos imprescindíveis para você, motorista de carga">
-            <h2 class="post-title text-center">8 aplicativos imprescindíveis para você, motorista de carga</h2>
-          </a>
-          <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php" title="Diferenças entre carga fracionada e carga completa">
-            <img src="http://blogdofrete.com.br/img/apps-motoristas-de-carga.jpg" class="panorama" title="8 aplicativos imprescindíveis para você, motorista de carga" alt="apps imprescindiveis" />
-          </a>
-          <p class="text-justify">Além de servir como o principal meio de comunicação entre duas pessoas que moram distantes uma da outra, o smartphone  pode servir também para evitar acidentes e ajudar (e como) a vida de quem passa dias e noites na estrada.</p>
-          <div class="separador"></div>          
+      <div class="data mb-3">
+        <span class="destaque">empresa</span>
+        <span class="data"> 14 de Fev 2019</span>
       </div>
+        <a href="http://blogdofrete.com.br/frota-propria-ou-terceirizada-quais-os-custos.php" class="link-post" title="Frota própria ou terceirizada: quais os custos?">
+          <h2 class="post-title text-center">Frota própria ou terceirizada: quais os custos?</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/frota-propria-ou-terceirizada-quais-os-custos.php" title="Diferenças entre carga fracionada e carga completa">
+          <img src="http://blogdofrete.com.br/img/frota-propria-ou-tercerizada-quais-os-custos.jpg" class="panorama" title="Frota própria ou terceirizada: quais os custos?" alt="custos com frota" />
+        </a>
+        <p class="text-justify">Tem frota própria e está pensando em terceirizar? Terceiriza o serviço de transportes e está pensando em investir em frota própria? Vamos apresentar as vantagens e desvantagens das duas modalidades, vem com a gente!</p>
+        <div class="separador"></div>          
+    </div>
 
     <div class="col-lg-6">
-        <div class="data mb-3">
-          <span class="destaque">empresa</span>
-          <span class="data"> 14 de Fev 2019</span>
-        </div>
-          <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php" class="link-post" title="Diferenças entre carga fracionada e carga completa">
-            <h2 class="post-title text-center">Carga fracionada ou carga completa: quais as principais diferenças?</h2>
-          </a>
-          <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php" title="Diferenças entre carga fracionada e carga completa">
-            <img src="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg" class="panorama" title="Carga fracionada ou carga completa: quais as principais diferenças?" alt="Diferenca de Cargas" />
-          </a>
-          <p class="text-justify">Você sabe quais são as principais diferenças entre carga completa e carga fracionada? Qual delas é melhor para seu negócio? Acompanhe o post e descubra qual a melhor opção para a sua empresa!</p>
-          <div class="separador"></div>          
+      <div class="data mb-3">
+        <span class="destaque">motorista</span>
+        <span class="data"> 14 de Fev 2019</span>
       </div>
+        <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php" class="link-post" title="8 aplicativos imprescindíveis para você, motorista de carga">
+          <h2 class="post-title text-center">8 aplicativos imprescindíveis para você, motorista de carga</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php" title="Diferenças entre carga fracionada e carga completa">
+          <img src="http://blogdofrete.com.br/img/apps-motoristas-de-carga.jpg" class="panorama" title="8 aplicativos imprescindíveis para você, motorista de carga" alt="apps imprescindiveis" />
+        </a>
+        <p class="text-justify">Além de servir como o principal meio de comunicação entre duas pessoas que moram distantes uma da outra, o smartphone  pode servir também para evitar acidentes e ajudar (e como) a vida de quem passa dias e noites na estrada.</p>
+        <div class="separador"></div>          
+    </div>
 
     <div class="col-lg-6">
-        <div class="data mb-3">
-          <span class="destaque">empresa</span>
-          <span class="data"> 13 de Fev 2019</span>
-        </div>
-          <a href="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php" class="link-post" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas">
-            <h2 class="post-title text-center">Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas</h2>
-          </a>
-          <a href="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas">
-            <img src="http://blogdofrete.com.br/img/melhore-a-eficiência-operacional-de-sua-empresa-de-transporte-de-carga-com-soluções-tecnológicas.jpg" class="panorama" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas" alt="Consiga clientes" />
-          </a>
-          <p class="text-justify">Aprenda como melhorar a eficiência operacional de sua empresa de transporte de carga através de soluções tecnológicas inovadoras. Esse é o segundo artigo da nossa série de artigos sobre a utilização de...</p>
-          <div class="separador"></div>          
+      <div class="data mb-3">
+        <span class="destaque">empresa</span>
+        <span class="data"> 14 de Fev 2019</span>
       </div>
+        <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php" class="link-post" title="Diferenças entre carga fracionada e carga completa">
+          <h2 class="post-title text-center">Carga fracionada ou carga completa: quais as principais diferenças?</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php" title="Diferenças entre carga fracionada e carga completa">
+          <img src="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg" class="panorama" title="Carga fracionada ou carga completa: quais as principais diferenças?" alt="Diferenca de Cargas" />
+        </a>
+        <p class="text-justify">Você sabe quais são as principais diferenças entre carga completa e carga fracionada? Qual delas é melhor para seu negócio? Acompanhe o post e descubra qual a melhor opção para a sua empresa!</p>
+        <div class="separador"></div>          
+    </div>
 
     <div class="col-lg-6">
-        <div class="data mb-3">
-          <span class="destaque">documentos</span>
-          <span class="data"> 13 de Fev 2019</span>
-        </div>
-          <a href="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php" class="link-post" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?">
-            <h2 class="post-title text-center">Você sabe quais documentos fiscais são importantes para o transporte de cargas?</h2>
-          </a>
-          <a href="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?">
-            <img src="http://blogdofrete.com.br/img/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.jpg" class="panorama" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?" alt="Consiga clientes" />
-          </a>
-          <p class="text-justify">Existem muitos documentos que são importantes na hora de transportar uma carga de um lugar para outro, você sabe quais documentos são esses?Preparamos esse post com os seis documentos fiscais...</p>
-          <div class="separador"></div>          
+      <div class="data mb-3">
+        <span class="destaque">empresa</span>
+        <span class="data"> 13 de Fev 2019</span>
       </div>
+        <a href="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php" class="link-post" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas">
+          <h2 class="post-title text-center">Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas">
+          <img src="http://blogdofrete.com.br/img/melhore-a-eficiência-operacional-de-sua-empresa-de-transporte-de-carga-com-soluções-tecnológicas.jpg" class="panorama" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas" alt="Consiga clientes" />
+        </a>
+        <p class="text-justify">Aprenda como melhorar a eficiência operacional de sua empresa de transporte de carga através de soluções tecnológicas inovadoras. Esse é o segundo artigo da nossa série de artigos sobre a utilização de...</p>
+        <div class="separador"></div>          
+    </div>
+
+    <div class="col-lg-6">
+      <div class="data mb-3">
+        <span class="destaque">documentos</span>
+        <span class="data"> 13 de Fev 2019</span>
+      </div>
+        <a href="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php" class="link-post" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?">
+          <h2 class="post-title text-center">Você sabe quais documentos fiscais são importantes para o transporte de cargas?</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?">
+          <img src="http://blogdofrete.com.br/img/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.jpg" class="panorama" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?" alt="Consiga clientes" />
+        </a>
+        <p class="text-justify">Existem muitos documentos que são importantes na hora de transportar uma carga de um lugar para outro, você sabe quais documentos são esses?Preparamos esse post com os seis documentos fiscais...</p>
+        <div class="separador"></div>          
+    </div>
     
     <div class="col-lg-6">
-        <div class="data mb-3">
-          <span class="destaque">empresa</span>
-          <span class="data"> 13 de Fev 2019</span>
-        </div>
-          <a href="http://blogdofrete.com.br/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.php" class="link-post" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras">
-            <h2 class="post-title text-center">Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras</h2>
-          </a>
-          <a href="http://blogdofrete.com.br/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.php" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras">
-            <img src="http://blogdofrete.com.br/img/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.png" class="panorama" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras" alt="Consiga clientes" />
-          </a>
-          <p class="text-justify">Aprenda como conseguir mais clientes de carga através de soluções tecnológicas inovadoras. Esse é o terceiro artigo da nossa série de artigos sobre a utilização de soluções inovadoras para otimizar os...</p>
-          <div class="separador"></div>          
+      <div class="data mb-3">
+        <span class="destaque">empresa</span>
+        <span class="data"> 13 de Fev 2019</span>
       </div>
+        <a href="http://blogdofrete.com.br/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.php" class="link-post" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras">
+          <h2 class="post-title text-center">Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.php" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras">
+          <img src="http://blogdofrete.com.br/img/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.png" class="panorama" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras" alt="Consiga clientes" />
+        </a>
+        <p class="text-justify">Aprenda como conseguir mais clientes de carga através de soluções tecnológicas inovadoras. Esse é o terceiro artigo da nossa série de artigos sobre a utilização de soluções inovadoras para otimizar os...</p>
+        <div class="separador"></div>          
+    </div>
 
       <div class="col-lg-6">
         <div class="data mb-3">
