@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>    
         
         <h1 class="post-title text-center">Carga fracionada ou carga completa: quais as principais diferenças?</h1>
-        <!--<img src="http://blogdofrete.com.br/img/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-soluções-tecnológicas-inovadoras.jpg" class="panorama" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras" alt="novos fretes" />-->
+        <img src="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg" class="panorama" title="Carga fracionada ou carga completa: quais as principais diferenças?" alt="Diferentes Cargas" />
         
         <h2>Você sabe quais são as principais diferenças entre <strong>carga completa</strong> e <strong>carga fracionada</strong>? Qual delas é melhor para seu negócio? Acompanhe o post e descubra qual a melhor opção para a sua empresa!</strong></h2> 
 

@@ -14,10 +14,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="row">
       <div class="col-lg-12">        
           <a href="http://blogdofrete.com.br/" title="Home Blog do Frete">
-            <img src="<?=WWW?>img/logo_cabecalho.png" class="img_logo" alt="Logo Blog do Frete" title="Logo Blog do Frete" />
+            <img src="img/logo_cabecalho.png" class="img_logo" alt="Logo Blog do Frete" title="Logo Blog do Frete" />
           </a>
           <!-- <p>Últimos posts</p> -->
-          <h1 class="titulo-principal">Fret SPOT: dicas para economizar com<br> transporte de emergência</h1>
+          <h1 class="titulo-principal">Frete SPOT: dicas para economizar com<br> transporte de emergência</h1>
         <button type="button" class="btn btn-success d-inline-block mt-4 open-cta" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>        
       </div>
     </div>
@@ -27,6 +27,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="conteudo">
   <div class="container">
     <div class="row pt-5">
+
+    <div class="col-lg-6">
+        <div class="data mb-3">
+          <span class="destaque">empresa</span>
+          <span class="data"> 14 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php" class="link-post" title="Diferenças entre carga fracionada e carga completa">
+            <h2 class="post-title text-center">Carga fracionada ou carga completa: quais as principais diferenças?</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php" title="Diferenças entre carga fracionada e carga completa">
+            <img src="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg" class="panorama" title="Carga fracionada ou carga completa: quais as principais diferenças?" alt="Diferenca de Cargas" />
+          </a>
+          <p class="text-justify">Você sabe quais são as principais diferenças entre carga completa e carga fracionada? Qual delas é melhor para seu negócio? Acompanhe o post e descubra qual a melhor opção para a sua empresa!</p>
+          <div class="separador"></div>          
+      </div>
 
     <div class="col-lg-6">
         <div class="data mb-3">
