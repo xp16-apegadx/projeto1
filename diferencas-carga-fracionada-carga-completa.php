@@ -52,36 +52,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <p>Quando o assunto é o transporte de mercadorias, devemos nos atentar a diversos fatores, pensando de forma estratégica, para diminuir custos e otimizar o tempo. Nesse sentido, traremos na planilha abaixo as principais diferenças a serem observadas entre as duas modalidades, assim, fica fácil montar a estratégia de logística da sua empresa.<p>
 
-        <div class="table-responsive">
-					<table class="justify-content-center">
-						<tr>
-							<td class="text-center">PRINCIPAIS DIFERENÇAS</th>
-							<th class="text-center">CARGA COMPLETA</th>
-              <th class="text-center">CARGA FRACIONADA</th>
-						</tr>
-						<tr>
-              <th class="text-center">VOLUME DE ENTREGAS</th>  
-							<td class="text-center">Entregas pontuais, com um grande volume de mercadoria e apenas um destino.</td>
-              <td class="text-center">Fluxo dinâmico, grande volume de pedidos com destinos diferentes e necessidade de entrega imediata.</td>
-						</tr>
-						<tr>
-              <th class="text-center">SEGURANÇA E CUSTOS</th>
-							<td class="text-center">Volume considerável, com origem e destino certo, menor necessidade de manuseamento durante o trajeto e redução dos acidentes.</td>
-              <td class="text-center">Menor volume, mesma origem, mas destinos diferentes, maior necessidade de manuseamento durante o trajeto, aumentando o risco de acidentes.</td>
-						</tr>
-						<tr>
-              <th class="text-center">COBERTURA GEOGRÁFICA</th>
-							<td class="text-center">Envio específico de um ponto ao outro.</td>
-							<td class="text-center">Envio a pontos diferentes, necessitando de planejamento de rota, visando a otimização das entregas.</td>
-						</tr>
-            <tr>
-              <th class="text-center">TEMPO DE ENTREGA</th>
-							<td class="text-center">Menor tempo de entrega, visto que o veículo não precisa realizar diversas paradas durante a rota.
-</td>
-							<td class="text-center">Maior tempo de entrega, devido a necessidade de realizar entregas em locais diferentes.</td>
-						</tr>
-					</table>
-				</div>
+        <table class="table table-bordered">
+          <tr>
+            <th>PRINCIPAIS DIFERENÇAS</th>
+            <th>CARGA COMPLETA</th>
+            <th>CARGA FRACIONADA</th>
+          </tr>
+          <tr>
+            <th>VOLUME DE ENTREGAS</th>
+            <td>Entregas pontuais, com um grande volume de mercadoria e apenas um destino.</td>
+            <td>Fluxo dinâmico, grande volume de pedidos com destinos diferentes e necessidade de entrega imediata.</td>
+          </tr>
+          <tr>
+            <th>SEGURANÇA E CUSTOS</th>
+            <td>Volume considerável, com origem e destino certo, menor necessidade de manuseamento durante o trajeto e redução dos acidentes.</td>
+            <td>Menor volume, mesma origem, mas destinos diferentes, maior necessidade de manuseamento durante o trajeto, aumentando o risco de acidentes.</td>
+          </tr>
+          <tr>
+            <th>COBERTURA GEOGRÁFICA</th>
+            <td>Envio específico de um ponto ao outro.</td>
+            <td>Envio a pontos diferentes, necessitando de planejamento de rota, visando a otimização das entregas.</td>
+          </tr>
+          <tr>
+            <th>TEMPO DE ENTREGA</th>
+            <td>Menor tempo de entrega, visto que o veículo não precisa realizar diversas paradas durante a rota.</td>
+            <td>Maior tempo de entrega, devido a necessidade de realizar entregas em locais diferentes.</td>
+          </tr>
+        </table>
 
         <p>Agora você já sabe quais as principais diferenças entre <strong>carga completa</strong> e <strong>carga fracionada</strong> e qual a melhor alternativa para o seu negócio.</p>
 
