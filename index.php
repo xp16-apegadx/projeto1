@@ -30,6 +30,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="col-lg-6">
         <div class="data mb-3">
+          <span class="destaque">motorista</span>
+          <span class="data"> 14 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php" class="link-post" title="8 aplicativos imprescindíveis para você, motorista de carga">
+            <h2 class="post-title text-center">8 aplicativos imprescindíveis para você, motorista de carga</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php" title="Diferenças entre carga fracionada e carga completa">
+            <img src="http://blogdofrete.com.br/img/apps-motoristas-de-carga.jpg" class="panorama" title="8 aplicativos imprescindíveis para você, motorista de carga" alt="apps imprescindiveis" />
+          </a>
+          <p class="text-justify">Além de servir como o principal meio de comunicação entre duas pessoas que moram distantes uma da outra, o smartphone  pode servir também para evitar acidentes e ajudar (e como) a vida de quem passa dias e noites na estrada.</p>
+          <div class="separador"></div>          
+      </div>
+
+    <div class="col-lg-6">
+        <div class="data mb-3">
           <span class="destaque">empresa</span>
           <span class="data"> 14 de Fev 2019</span>
         </div>
