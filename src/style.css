@@ -7103,3 +7103,498 @@ input {
 
 .conteudo-post h1, .conteudo-post h2, .conteudo-post h3, .conteudo-post h4, .conteudo-post h5, .conteudo-post h6, .conteudo-post p, .conteudo-post li {
   color: #000; }
+
+.whatsapp-cta {
+  position: fixed;
+  z-index: 9;
+  right: 65px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: all .35s ease; }
+  .whatsapp-cta.clicked {
+    transform: translateY(-50%) translateX(100%); }
+  @media screen and (min-width: 997px) and (max-width: 1500px) {
+    .whatsapp-cta {
+      right: 33px; } }
+  .whatsapp-cta .whatsapp-cta-text {
+    color: #fff;
+    text-align: center;
+    display: none; }
+  .whatsapp-cta .wpp-lateral {
+    text-decoration: none; }
+  @media only screen and (max-width: 997px) {
+    .whatsapp-cta {
+      position: fixed;
+      bottom: -30px;
+      top: auto;
+      left: 0;
+      right: 0;
+      background-color: #25d366;
+      z-index: 1000; }
+      .whatsapp-cta::before {
+        content: "";
+        display: block;
+        width: 100%;
+        height: 4px;
+        background-color: rgba(0, 174, 239, 0.2);
+        left: 0;
+        top: -4px;
+        position: absolute; }
+      .whatsapp-cta .whatsapp-cta-text {
+        display: block;
+        padding: 15px;
+        font-size: 18px; }
+      .whatsapp-cta .whatsapp-cta-img {
+        display: none; } }
+
+@keyframes icon-pulse {
+  0% {
+    transform: scale(1); }
+  100% {
+    transform: scale(1.1); } }
+
+.whatsapp-cta-img,
+.call-cta {
+  transition: all 0.2s ease-in-out;
+  animation: icon-pulse .75s infinite alternate; }
+  @media screen and (prefers-reduced-motion: reduce) {
+    .whatsapp-cta-img,
+    .call-cta {
+      transition: none; } }
+
+@media only screen and (max-width: 997px) {
+  .mobile-cta {
+    position: fixed;
+    z-index: 9;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(32, 201, 151, 0.5);
+    padding: 0 15px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between; } }
+
+@media only screen and (min-width: 997px) {
+  .mobile-cta {
+    display: none; } }
+
+.whatsapp-mobile-link {
+  height: 40px;
+  width: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+  font-size: 24px;
+  color: cyan;
+  text-align: center;
+  line-height: 40px; }
+
+.whatsapp-tooltip {
+  max-width: 289px;
+  position: absolute;
+  left: 15px;
+  min-height: 75px;
+  background-color: cyan;
+  padding-top: 16px;
+  padding-left: 12px;
+  padding-right: 40px;
+  padding-bottom: 12px;
+  border-radius: 5px;
+  top: -85px;
+  transition: all .35s ease-in-out; }
+  .whatsapp-tooltip:before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -8px;
+    left: 10px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 18px 9px 0 9px;
+    border-color: cyan transparent transparent transparent; }
+  .whatsapp-tooltip .fa-whatsapp {
+    font-size: 42px;
+    color: #fff; }
+  .whatsapp-tooltip.clicked {
+    transform: translateY(-10px);
+    opacity: 0;
+    visibility: hidden; }
+
+.whatsapp-tooltip-text {
+  font-size: 14px;
+  color: #fff;
+  width: 76%;
+  margin-left: 6%; }
+
+.call-cta-wrapper {
+  position: fixed;
+  z-index: 10;
+  text-align: center;
+  transition: all .35s ease;
+  transform: translateY(-30px);
+  opacity: 0;
+  visibility: hidden;
+  left: 12px;
+  bottom: 15px; }
+  .call-cta-wrapper .btn {
+    min-width: 50px; }
+  @media only screen and (min-width: 1500px) {
+    .call-cta-wrapper {
+      bottom: 38px; } }
+  .call-cta-wrapper.visible {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible; }
+
+.call-tooltip {
+  position: relative;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  transition: all .3s ease-in-out;
+  border: none;
+  width: 200px;
+  padding: 10px 14px 19px; }
+  .call-tooltip.clicked {
+    transform: translateY(-30px);
+    opacity: 0;
+    visibility: hidden; }
+  @media only screen and (min-width: 1500px) {
+    .call-tooltip {
+      padding: 0 8px;
+      padding-top: 22px;
+      padding-bottom: 19px;
+      width: 165px;
+      min-height: 148px; } }
+
+.close-call-cta {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  color: #7f8c8d;
+  font-size: 16px;
+  background-color: transparent;
+  text-align: center;
+  padding: 0;
+  line-height: 20px;
+  transition: all .3s ease-in-out;
+  border: none; }
+  .close-call-cta:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transform: scale(1);
+    transition: all 0.2s ease-in-out; }
+    @media screen and (prefers-reduced-motion: reduce) {
+      .close-call-cta:hover {
+        transition: none; } }
+    .close-call-cta:hover:hover {
+      -webkit-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+      -moz-transform: scale(1.1);
+      transform: scale(1.1);
+      cursor: pointer; }
+  .close-call-cta.clicked {
+    transform: translateY(-30px);
+    opacity: 0;
+    visibility: hidden; }
+
+.open-call {
+  cursor: unset; }
+  .open-call.clicked {
+    cursor: pointer; }
+
+.tooltip-text {
+  color: #95a5a6;
+  margin-bottom: 11px;
+  font-size: 16px; }
+  .tooltip-text .variant {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 5px;
+    color: #2a2a2a;
+    font-size: 24px; }
+    @media screen and (min-width: 997px) and (max-width: 1500px) {
+      .tooltip-text .variant {
+        font-size: 16px; } }
+    @media only screen and (min-width: 1500px) {
+      .tooltip-text .variant {
+        font-size: 20px; } }
+
+@media screen and (min-width: 997px) and (max-width: 1500px) {
+  .call-cta {
+    margin-top: 10px;
+    max-width: 70px; } }
+
+@media only screen and (min-width: 1500px) {
+  .call-cta {
+    margin-top: 30px; } }
+
+.close-cta {
+  font-size: 28px;
+  position: absolute;
+  top: 15px;
+  right: 0;
+  color: #ccc;
+  border: 0;
+  background-color: transparent; }
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 9999;
+  display: none; }
+  .overlay a:hover, .overlay button:hover {
+    cursor: pointer; }
+
+.form-wrapper-all {
+  min-height: 380px;
+  max-width: 480px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  background-color: #fff;
+  border-radius: 4px;
+  font-size: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  margin: auto;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+  display: none;
+  position: absolute; }
+  .form-wrapper-all .form-control {
+    background-color: transparent;
+    border: 1px solid #ddd;
+    color: #bdc3c7;
+    min-height: 40px; }
+  .form-wrapper-all .btn {
+    font-size: 18px; }
+  @media only screen and (max-width: 997px) {
+    .form-wrapper-all {
+      max-width: 90%; } }
+  .form-wrapper-all .instance:not(.active) {
+    display: none; }
+
+.form-picker {
+  display: flex; }
+  .form-picker .form-pickers:first-child {
+    border-top-left-radius: 4px; }
+  .form-picker .form-pickers:last-child {
+    border-top-right-radius: 4px; }
+
+.form-pickers {
+  background-color: #575757;
+  color: #fff;
+  font-size: 11px;
+  height: 47px;
+  vertical-align: top;
+  font-weight: 700;
+  flex-grow: 1;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #bdc3c7; }
+  @media screen and (prefers-reduced-motion: reduce) {
+    .form-pickers {
+      transition: none; } }
+  .form-pickers [class*="fa"] {
+    color: #e83e8c;
+    font-size: 16px;
+    margin-right: 5px; }
+    .form-pickers [class*="fa"].alt {
+      font-weight: 300; }
+  .form-pickers.active, .form-pickers:hover {
+    background-color: #7f8c8d;
+    color: #fff; }
+    .form-pickers.active i, .form-pickers:hover i {
+      color: #fff; }
+
+.leave-message {
+  text-align: center;
+  max-width: 70%;
+  display: block;
+  margin: 0 auto; }
+  .leave-message .fields {
+    max-width: 300px;
+    margin: auto; }
+    @media only screen and (min-width: 997px) {
+      .leave-message .fields .half {
+        width: 47.5%;
+        float: left; } }
+    @media only screen and (min-width: 997px) {
+      .leave-message .fields .half + .half {
+        margin-left: 5%; } }
+    .leave-message .fields .full {
+      clear: both; }
+  .leave-message .field-wrapper {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    position: relative; }
+    .leave-message .field-wrapper .icon {
+      position: absolute;
+      left: 2px;
+      height: 36px;
+      background-color: #fff;
+      top: 1px;
+      bottom: 1px;
+      width: 36px;
+      text-align: center;
+      z-index: 2; }
+      .leave-message .field-wrapper .icon i {
+        color: cyan;
+        font-size: 16px;
+        line-height: 34px; }
+
+.field-green {
+  height: 38px;
+  border: 1px solid cyan;
+  border-radius: 4px;
+  width: 100%;
+  padding: 5px 10px; }
+  .field-green.bigger {
+    height: 75px; }
+  .field-green.has-icon {
+    padding-left: 40px; }
+
+.leave-title {
+  font-size: 20px;
+  color: #58595b;
+  line-height: 24px;
+  padding-top: 25px;
+  margin-bottom: 30px;
+  max-width: 360px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; }
+  .leave-title .variant {
+    font-size: 30px;
+    display: block;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #7f8c8d; }
+
+.callers {
+  font-size: 14px;
+  color: #95a5a6;
+  margin-top: 18px; }
+  .callers .number {
+    padding: 3px 8px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: red; }
+
+.close-modal {
+  position: absolute;
+  top: 10px;
+  right: 5px;
+  font-size: 26px;
+  border: 0;
+  background-color: transparent;
+  padding: 0;
+  color: #333;
+  line-height: 0; }
+
+.confirm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #28a745;
+  font-size: 16px;
+  color: #fff;
+  border-radius: 4px;
+  transition: .2s ease; }
+
+.call-me-later {
+  width: 300px;
+  height: 42px;
+  background-color: #28a745;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  border: 2px solid transparent;
+  border-radius: 4px; }
+  .call-me-later:hover {
+    color: #28a745;
+    border-color: #28a745;
+    background-color: #fff; }
+
+.close-submenu {
+  width: 80vw;
+  height: 58px;
+  background-color: #6fb6a4;
+  box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.1);
+  border: 0;
+  color: #fff;
+  font-size: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 700;
+  top: -51px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all .35s ease-in-out; }
+  .close-submenu:after {
+    content: '\f053';
+    display: block;
+    font-family: 'Font Awesome 5 Free';
+    color: #fff;
+    font-size: 18px;
+    position: absolute;
+    transform: translateY(-50%);
+    top: 47.5%;
+    right: 30px;
+    font-weight: 700; }
+  .close-submenu.submenu-open {
+    opacity: 1;
+    visibility: visible; }
+
+.generic-mobile-cta {
+  color: #333;
+  background-color: #20c997;
+  border: 5px solid #fff;
+  border-radius: 20px;
+  text-align: center;
+  height: 40px;
+  font-weight: 700; }
+  .generic-mobile-cta.call-link {
+    font-size: 15px;
+    width: 92px;
+    padding-top: 6.5px; }
+  .generic-mobile-cta.modal {
+    font-size: 12px;
+    width: 144px;
+    padding-top: 3px; }
+
+.close-whatsapp-tooltip {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 0;
+  font-size: 24px;
+  background-color: transparent;
+  border: 0;
+  color: #fff; }
+
+.btn-group {
+  display: flex;
+  flex-wrap: wrap; }
+  .btn-group [class*='btn'] {
+    font-size: 16px; }
+
+.open-cta:hover {
+  cursor: pointer; }

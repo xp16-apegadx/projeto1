@@ -18,22 +18,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </a>
           <!-- <p>Últimos posts</p> -->
           <h1 class="titulo-principal">Fret SPOT: dicas para economizar com<br> transporte de emergência</h1>
-        <button type="button" class="btn btn-success mt-4" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>
+        <button type="button" class="btn btn-success d-inline-block mt-4 open-cta" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>        
       </div>
     </div>
   </div>
 </section>
-
-<div class="modal fade" id="modalHeader" tabindex="-1" role="dialog" aria-labelledby="modalHeaderLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content px-4 pb-5 pt-2">	
-        <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close" style="width: 10px">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      <?php require_once("includes/form-cadastro.php"); ?>
-    </div>
-  </div>
-</div>
 
 <section id="conteudo">
   <div class="container">

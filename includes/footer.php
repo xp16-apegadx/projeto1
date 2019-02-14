@@ -1,3 +1,56 @@
+<div class="call-cta-wrapper">
+	<div class="call-tooltip">
+		<p class="tooltip-text">
+			<span class="variant">Olá! <i class="far fa-smile-beam"></i></span>
+		Clique no botão abaixo e inscreva-se.</p>
+		<button class="btn btn-success open-cta confirm">EU QUERO</button>
+	</div>  
+	<!--<a href="#" class="open-call">
+     <img src="<?WWW?>/img/common/callcta.png" aria-hidden="true" class="call-cta" /> 
+    <i class="fas fa-bell"></i>
+	</a>-->
+	<button class="close-call-cta" aria-label="Fechar CTA de Ligação">
+		&times;
+	</button>
+</div>
+
+<div class="overlay"> 
+    <div class="form-wrapper-all">
+        <button class="close-modal" aria-label="Fechar Modal">&times;</button>
+        <div class="instance active" data-instance="00">
+            <form class="leave-message schedule-time" data-form="form-schedule" method="POST">              
+                <legend class="leave-title">
+                    Increva-se!
+                </legend>
+                
+                <form id="form-cadastro" method="POST">
+                  <div class="form-label-group">
+                      <label for="inputNome">Nome</label>
+                      <input type="text" id="inputNome" class="form-control" placeholder="Seu nome" required />                
+                  </div>
+                  <div class="form-label-group mb-3 mt-3">
+                      <label for="inputEmail">E-mail</label>
+                      <input type="email" id="inputEmail" class="form-control" placeholder="Seu melhor e-mail" required />                
+                  </div>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-primary active" for="inputB2C">
+                    <input type="radio" class="form-check-input" id="inputB2C" name="tipo" value="B2C" checked />Sou motorista
+                    </label>
+                    <label class="btn btn-primary" for="inputB2B">
+                    <input type="radio" class="form-check-input" id="inputB2B" name="tipo" value="B2B" />Sou transportadora
+                    </label>  
+                </div>
+                  <br/>
+                  <button class="btn btn-success btn-block mt-3" id="btn-cadastrar" onclick= "cadastrarUsuario()">Quero receber novidades</button>
+              </form>
+                                
+                <p class="callers text-center">Junte-se aos mais de <span class="number">5</span> inscritos.</p>
+            </form>
+        </div>
+        
+    </div>
+ </div>
+
 <footer id="footer">
   <div class="container-fluid pt-4">
     <div class="row">
@@ -24,7 +77,7 @@
         <div>
           <h3 class="titulo-footer">INSCREVA-SE PARA RECEBER NOVIDADES!</h3>          
           <div class="separador"></div>          
-            <a href="#" class="btn btn-primary" id="go-top" class="btn btn-primary">Inscreva-se</a>
+            <button class="btn btn-primary open-cta">Inscreva-se</button>
             <a class="text-white d-block mt-4" href="mailto:contato@blogdofrete.com.br"  title="Envie-nos um e-mail"><i class="fa fa-envelope"></i> contato@blogdofrete.com.br</a>
         </div>
       </div>
@@ -177,6 +230,118 @@
         $('html, body').animate({scrollTop : 0},900);
         return false;
     });
+
+    function WrapperCtaVisible() {
+    $(".call-cta-wrapper").addClass("visible");
+    $(".call-cta-wrapper").css({
+      "opacity": "1",
+      "visibility": "visible"
+    });
+  }
+  function WrapperCtaInvisible() {
+    $(".call-cta-wrapper").removeClass("visible");
+    $(".call-cta-wrapper").css({
+      "opacity": "0",
+      "visibility": "hidden"
+    });
+  }
+  
+  function handleWhatsappCta() {
+      $(this).parent('.whatsapp-cta').addClass('clicked');
+  }
+  
+  function handleCallCta() {
+      $(this).addClass('clicked');
+      $(".call-tooltip").addClass('clicked');
+      $(".open-call-tooltip").addClass('clicked');
+  }
+  function callTooltipCtaVisible(e) {
+      $(".close-call-cta").removeClass('clicked');
+      $(".call-tooltip").removeClass('clicked');
+      $(".open-call-tooltip").removeClass('clicked');
+      e.preventDefault();
+  }
+  
+  function handleMobileCta() {
+      $(this).parent('.whatsapp-tooltip').addClass('clicked');
+  }
+  
+  function openPhoneCta() {
+      // duhh
+      $('.open-cta').on('click', function () {
+          $('.overlay').fadeIn(400, function () {
+              $('.form-wrapper-all').fadeIn();
+          });
+  
+  
+          // create new date on button click
+          var now = new Date(),
+              days = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'],
+              day = days[now.getDay()],
+              hour = now.getHours(),
+        picker = $('.form-pickers[data-instance=00]');
+  
+          // check if it is outside business hours
+          if (day === 'Domingo' || day === 'Sábado' || hour > 18 || hour < 9) {
+              picker[0].disabled = true;
+              picker[0].title = "Disponível apenas em horário comercial";
+              picker[0].innerHTML = "<i class='fa fa-phone'></i> APENAS  EM HORÁRIO COMERCIAL";
+      }
+      });
+  }
+  
+  function formPickers() {
+      $('.form-pickers').removeClass('active');
+      $(this).addClass('active');
+      var instance = $(this).data('instance');
+  
+      $('.instance:not([data-instance=' + instance + '])').fadeOut(400, function () {
+          setTimeout(function () {
+              $('.instance[data-instance=' + instance + ']').fadeIn()
+          }, 400)
+      });
+  }
+  
+  function closePhoneCta() {
+      $('.close-modal').on('click', function () {
+          $('.form-wrapper-all').fadeOut(400, function () {
+              $('.overlay').fadeOut();
+          });
+      });
+  }
+  
+  function randomizeRequests(min, max) {
+    var random = Math.floor(Math.random() * (max - min + 1)) + min;
+    return random;
+  }
+  
+  function printNumbers() {
+    var numbers = document.querySelectorAll('.number');
+    for (var i = 0; i < numbers.length; i++) {
+        numbers[i].innerHTML = randomizeRequests(50, 150);
+    }
+  }
+
+  $(window).scroll(function () {
+    var heightScroll = $(this).scrollTop();  
+    var heightScrollCallCta = $(window).height() * 1.1;
+
+    if (heightScroll >= heightScrollCallCta) {
+      WrapperCtaVisible();
+    } else {    
+      WrapperCtaInvisible();
+    }
+  });
+  
+  printNumbers();
+  openPhoneCta();
+  closePhoneCta();
+  
+  $(".form-pickers").on("click", formPickers);
+  $('.close-cta').on('click', handleWhatsappCta);
+  $('.close-call-cta').on('click', handleCallCta);
+  $('.open-call-tooltip').on('click', callTooltipCtaVisible);
+  $('.open-cta').on('click', e => e.preventDefault());
 </script>
 <!-- fim script do firebase -->
 <script>
