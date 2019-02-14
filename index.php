@@ -18,23 +18,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </a>
           <!-- <p>Últimos posts</p> -->
           <h1 class="titulo-principal">Fret SPOT: dicas para economizar com<br> transporte de emergência</h1>
-        <button type="button" class="btn btn-success mt-4" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>
+        <button type="button" class="btn btn-success d-inline-block mt-4 open-cta" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>        
       </div>
     </div>
   </div>
 </section>
 
-<div class="modal fade" id="modalHeader" tabindex="-1" role="dialog" aria-labelledby="modalHeaderLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content px-4 py-5">
-      <?php require_once("includes/form-cadastro.php"); ?>
-    </div>
-  </div>
-</div>
-
 <section id="conteudo">
   <div class="container">
     <div class="row pt-5">
+
+    <div class="col-lg-6">
+        <div class="data mb-3">
+          <span class="destaque">empresa</span>
+          <span class="data"> 13 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php" class="link-post" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas">
+            <h2 class="post-title text-center">Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas">
+            <img src="http://blogdofrete.com.br/img/melhore-a-eficiência-operacional-de-sua-empresa-de-transporte-de-carga-com-soluções-tecnológicas.jpg" class="panorama" title="Melhore a eficiência operacional de sua empresa de transporte de carga com soluções tecnológicas" alt="Consiga clientes" />
+          </a>
+          <p class="text-justify">Aprenda como melhorar a eficiência operacional de sua empresa de transporte de carga através de soluções tecnológicas inovadoras. Esse é o segundo artigo da nossa série de artigos sobre a utilização de...</p>
+          <div class="separador"></div>          
+      </div>
+
+    <div class="col-lg-6">
+        <div class="data mb-3">
+          <span class="destaque">documentos</span>
+          <span class="data"> 13 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php" class="link-post" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?">
+            <h2 class="post-title text-center">Você sabe quais documentos fiscais são importantes para o transporte de cargas?</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?">
+            <img src="http://blogdofrete.com.br/img/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.jpg" class="panorama" title="Você sabe quais documentos fiscais são importantes para o transporte de cargas?" alt="Consiga clientes" />
+          </a>
+          <p class="text-justify">Existem muitos documentos que são importantes na hora de transportar uma carga de um lugar para outro, você sabe quais documentos são esses?Preparamos esse post com os seis documentos fiscais...</p>
+          <div class="separador"></div>          
+      </div>
+    
+    <div class="col-lg-6">
+        <div class="data mb-3">
+          <span class="destaque">empresa</span>
+          <span class="data"> 13 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.php" class="link-post" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras">
+            <h2 class="post-title text-center">Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.php" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras">
+            <img src="http://blogdofrete.com.br/img/consiga-mais-clientes-para-sua-empresa-de-transportes-utilizando-solucoes-tecnologicas-inovadoras.png" class="panorama" title="Consiga mais clientes para sua empresa de transportes utilizando soluções tecnológicas inovadoras" alt="Consiga clientes" />
+          </a>
+          <p class="text-justify">Aprenda como conseguir mais clientes de carga através de soluções tecnológicas inovadoras. Esse é o terceiro artigo da nossa série de artigos sobre a utilização de soluções inovadoras para otimizar os...</p>
+          <div class="separador"></div>          
+      </div>
+
+      <div class="col-lg-6">
+        <div class="data mb-3">
+          <span class="destaque">empresa</span>
+          <span class="data"> 13 de Fev 2019</span>
+        </div>
+          <a href="http://blogdofrete.com.br/otimize-as-operacoes-de-sua-empresa-de-transporte-de-carga-utilizando-solucoes-inovadoras.php" class="link-post" title="Otimize as operações de sua empresa de transporte de carga utilizando soluções inovadoras">
+            <h2 class="post-title text-center">Otimize as operações de sua empresa de transporte de carga utilizando soluções inovadoras</h2>
+          </a>
+          <a href="http://blogdofrete.com.br/otimize-as-operacoes-de-sua-empresa-de-transporte-de-carga-utilizando-solucoes-inovadoras.php" title="Otimize as operações de sua empresa de transporte de carga utilizando soluções inovadoras">
+            <img src="http://blogdofrete.com.br/img/otimize-as-operações-de-sua-empresa-de-transporte-de-carga-utilizando-soluções-inovadoras.jpg" class="panorama" title="Otimize as operações de sua empresa de transporte de carga utilizando soluções inovadoras" alt="Soluções inovadoras" />
+          </a>
+          <p class="text-justify">Entenda quais são as soluções tecnológicas inovadoras de otimização dos processos logísticos. A <strong>eficiência dos processos logística</strong> é fator que deve receber máxima atenção dos gestores de...</p>
+          <div class="separador"></div>          
+      </div>
 
       <div class="col-lg-6">
         <div class="data mb-3">
