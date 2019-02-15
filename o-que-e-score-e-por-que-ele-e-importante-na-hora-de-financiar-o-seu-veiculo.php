@@ -83,6 +83,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+      <h2>  Você também vai gostar:</h2>
+
+      <p>Frota própria ou terceirizada: quais os custos? (colocar esse link no texto: <a href=" http://blogdofrete.com.br/frota-propria-ou-terceirizada-quais-os-custos.php">Frota própria ou tercerizada quais os custos</a>  
+      8 aplicativos imprescindíveis para você, motorista de carga (colocar esse link no texto: <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php ">Aplicativos motoristas de carga</a>   
+      Carga fracionada ou carga completa: quais as principais diferenças? (colocar esse link no texto: <a href="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php ">Diferenças entre carga fracionada e completa</a>   </p>)
+
+        
+        
           <div class="separador"></div>          
       </div>
     </div>
