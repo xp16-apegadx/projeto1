@@ -1,7 +1,22 @@
 <?php require_once("includes/header.php")?>
 
 <meta name="description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber todas as novidades!">
-  <title>Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Você sabe quais documentos fiscais são importantes para o transporte de cargas? | Blog do Frete</title>
+<meta name="description" content="Você despacha muitas mercadorias? Conheça aqui todos os documentos fiscais necessários para distribuir corretamente suas encomendas, acesse!">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Você sabe quais documentos fiscais são importantes para o transporte de cargas? | Blog do Frete">
+<meta property="og:site_name" content="Blog do Frete">
+<meta property="og:url" content="http://blogdofrete.com.br/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.php">
+<meta property="og:description" content="Você despacha muitas mercadorias? Conheça aqui todos os documentos fiscais necessários para distribuir corretamente suas encomendas, acesse!">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://blogdofrete.com.br/img/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@BlogFrete">
+<meta name="twitter:title" content="Você sabe quais documentos fiscais são importantes para o transporte de cargas? | Blog do Frete">
+<meta name="twitter:description" content="Você despacha muitas mercadorias? Conheça aqui todos os documentos fiscais necessários para distribuir corretamente suas encomendas, acesse!">
+<meta name="twitter:image" content="http://blogdofrete.com.br/img/voce-sabe-quais-documentos-fiscais-sao-importantes-para-o-transporte-de-cargas.jpg">
+<meta name="twitter:image:alt" content="Blog do Frete">
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->

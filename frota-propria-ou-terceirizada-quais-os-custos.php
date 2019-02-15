@@ -1,7 +1,22 @@
 <?php require_once("includes/header.php")?>
 
 <meta name="description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber todas as novidades!">
-  <title>Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Frota própria ou terceirizada: quais os custos? | Blog do Frete</title>
+<meta name="description" content="Você precisa utilizar serviços de transportes e fretes? Descubra se é melhor terceirizar ou criar uma frota própria!">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Frota própria ou terceirizada: quais os custos? | Blog do Frete">
+<meta property="og:site_name" content="Blog do Frete">
+<meta property="og:url" content="http://blogdofrete.com.br/frota-propria-ou-terceirizada-quais-os-custos.php">
+<meta property="og:description" content="TVocê precisa utilizar serviços de transportes e fretes? Descubra se é melhor terceirizar ou criar uma frota própria!">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://blogdofrete.com.br/img/frota-propria-ou-tercerizada-quais-os-custos.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@BlogFrete">
+<meta name="twitter:title" content="Frota própria ou terceirizada: quais os custos? | Blog do Frete">
+<meta name="twitter:description" content="Você precisa utilizar serviços de transportes e fretes? Descubra se é melhor terceirizar ou criar uma frota própria!">
+<meta name="twitter:image" content="http://blogdofrete.com.br/img/frota-propria-ou-tercerizada-quais-os-custos.jpg">
+<meta name="twitter:image:alt" content="Blog do Frete">
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->

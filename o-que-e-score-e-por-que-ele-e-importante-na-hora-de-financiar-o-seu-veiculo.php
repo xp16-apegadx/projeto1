@@ -1,7 +1,22 @@
 <?php require_once("includes/header.php")?>
 
 <meta name="description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber todas as novidades!">
-  <title>Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Saiba Tudo Sobre Score Antes de Comprar um Veículo | Blog do Frete</title>
+<meta name="description" content="Tire aqui todas as suas dúvidas com relação ao Score, a pontuação necessária para você poder financiar um veículo. Clique e confira!">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Saiba Tudo Sobre Score Antes de Comprar um Veículo | Blog do Frete">
+<meta property="og:site_name" content="Blog do Frete">
+<meta property="og:url" content="http://blogdofrete.com.br/">
+<meta property="og:description" content="Tire aqui todas as suas dúvidas com relação ao Score, a pontuação necessária para você poder financiar um veículo. Clique e confira!">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://drive.google.com/open?id=1_bk-Pd3u5M18sb86vEgEKIOz2jL1DFhz">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@BlogFrete">
+<meta name="twitter:title" content="Saiba Tudo Sobre Score Antes de Comprar um Veículo | Blog do Frete">
+<meta name="twitter:description" content="Tire aqui todas as suas dúvidas com relação ao Score, a pontuação necessária para você poder financiar um veículo. Clique e confira!">
+<meta name="twitter:image" content="https://drive.google.com/open?id=1_bk-Pd3u5M18sb86vEgEKIOz2jL1DFhz">
+<meta name="twitter:image:alt" content="Blog do Frete">
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->

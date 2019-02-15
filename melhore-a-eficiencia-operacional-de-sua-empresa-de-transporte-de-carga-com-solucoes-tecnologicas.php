@@ -1,7 +1,22 @@
 <?php require_once("includes/header.php")?>
 
 <meta name="description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber todas as novidades!">
-  <title>Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Melhore a Eficiência de sua Empresa com Tecnologia | Blog do Frete</title>
+<meta name="description" content="Sua empresa está nascendo ou decolando? Confira nossas dicas para melhorar a eficiência operacional e escalar seu negócio, confira!">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Melhore a Eficiência de sua Empresa com Tecnologia | Blog do Frete | Blog do Frete">
+<meta property="og:site_name" content="Blog do Frete">
+<meta property="og:url" content="http://blogdofrete.com.br/melhore-a-eficiencia-operacional-de-sua-empresa-de-transporte-de-carga-com-solucoes-tecnologicas.php">
+<meta property="og:description" content="Sua empresa está nascendo ou decolando? Confira nossas dicas para melhorar a eficiência operacional e escalar seu negócio, confira!">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://blogdofrete.com.br/img/melhore-a-efici%C3%AAncia-operacional-de-sua-empresa-de-transporte-de-carga-com-solu%C3%A7%C3%B5es-tecnol%C3%B3gicas.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@BlogFrete">
+<meta name="twitter:title" content="Melhore a Eficiência de sua Empresa com Tecnologia | Blog do Frete">
+<meta name="twitter:description" content="Sua empresa está nascendo ou decolando? Confira nossas dicas para melhorar a eficiência operacional e escalar seu negócio, confira!">
+<meta name="twitter:image" content="http://blogdofrete.com.br/img/melhore-a-efici%C3%AAncia-operacional-de-sua-empresa-de-transporte-de-carga-com-solu%C3%A7%C3%B5es-tecnol%C3%B3gicas.jpg">
+<meta name="twitter:image:alt" content="Blog do Frete">
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->

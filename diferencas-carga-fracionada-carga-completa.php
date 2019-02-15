@@ -1,7 +1,22 @@
 <?php require_once("includes/header.php")?>
 
 <meta name="description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber todas as novidades!">
-  <title>Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Carga fracionada ou carga completa: quais as principais diferenças? | Blog do Frete</title>
+<meta name="description" content="Você ja se perguntou sobre a diferença entre carga fracionada e carga completa? Descubra aqui tudo sobre essas duas modalidades de entregas!">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Carga fracionada ou carga completa: quais as principais diferenças? | Blog do Frete">
+<meta property="og:site_name" content="Blog do Frete">
+<meta property="og:url" content="http://blogdofrete.com.br/diferencas-carga-fracionada-carga-completa.php">
+<meta property="og:description" content="Você ja se perguntou sobre a diferença entre carga fracionada e carga completa? Descubra aqui tudo sobre essas duas modalidades de entregas!">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@BlogFrete">
+<meta name="twitter:title" content="Carga fracionada ou carga completa: quais as principais diferenças? | Blog do Frete">
+<meta name="twitter:description" content="Você ja se perguntou sobre a diferença entre carga fracionada e carga completa? Descubra aqui tudo sobre essas duas modalidades de entregas!">
+<meta name="twitter:image" content="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg">
+<meta name="twitter:image:alt" content="Blog do Frete">
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
