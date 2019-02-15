@@ -1,0 +1,5 @@
+User-agente:*
+
+Disallow: 
+
+Sitemap: http://blogdofrete/sitemap.xml
