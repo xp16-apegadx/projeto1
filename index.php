@@ -29,7 +29,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="container">
     <div class="row pt-5">
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">negócios</span>
         <span class="data"> 14 de Fev 2019</span>
@@ -44,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">empresa</span>
         <span class="data"> 14 de Fev 2019</span>
@@ -59,7 +59,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">motorista</span>
         <span class="data"> 14 de Fev 2019</span>
@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">empresa</span>
         <span class="data"> 14 de Fev 2019</span>
@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">empresa</span>
         <span class="data"> 13 de Fev 2019</span>
@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">documentos</span>
         <span class="data"> 13 de Fev 2019</span>
@@ -119,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
     
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="data mb-3">
         <span class="destaque">empresa</span>
         <span class="data"> 13 de Fev 2019</span>
@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="separador"></div>          
     </div>
 
-      <div class="col-lg-6">
+      <div class="col-lg-12">
         <div class="data mb-3">
           <span class="destaque">empresa</span>
           <span class="data"> 13 de Fev 2019</span>
@@ -149,7 +149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="separador"></div>          
       </div>
 
-      <div class="col-lg-6">
+      <div class="col-lg-12">
         <div class="data mb-3">
           <span class="destaque">multa</span>
           <span class="data"> 12 de Fev 2019</span>
@@ -164,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="separador"></div>          
       </div>
       
-      <div class="col-lg-6">
+      <div class="col-lg-12">
         <div class="data mb-3">
           <span class="destaque">fretes</span>
           <span class="data"> 12 de Fev 2019</span>
