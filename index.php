@@ -2,6 +2,7 @@
 
 <meta name="description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber todas as novidades!">
   <title>Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete</title>
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/e8aa86300d7f0f558887b776e/9111e5189b67658be7df4dba0.js");</script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -15,8 +16,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-lg-12">        
           <a href="http://blogdofrete.com.br/" title="Home Blog do Frete">
             <img src="img/logo_cabecalho.png" class="img_logo" alt="Logo Blog do Frete" title="Logo Blog do Frete" />
+            <a href="/cadastro.php" class="btn btn-danger float-right mt-5" title="Serviços de frete">Serviços de frete</a>
           </a>
-          <!-- <p>Últimos posts</p> -->
           <h1 class="titulo-principal">Frete SPOT: dicas para economizar com<br> transporte de emergência</h1>
         <button type="button" class="btn btn-success d-inline-block mt-4 open-cta" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>        
       </div>

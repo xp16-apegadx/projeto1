@@ -65,12 +65,12 @@
         <h3 class="titulo-footer">SIGA-NOS</h3>
         <div class="separador"></div>
         <div class="justify-content-center">
-          <a title="" href="https://www.facebook.com/Blog-do-Frete-313637669290024/?ref=br_rs" target="_blank" rel="noopener"><div class="fundo_icone_social">
+          <a title="Facebook Blog do Frete" href="https://www.facebook.com/Blog-do-Frete-313637669290024/?ref=br_rs" target="_blank" rel="noopener"><div class="fundo_icone_social">
             <img src="<?=WWW?>img/icon-f.png" class="icone_sociais" alt="Facebook Blog do Frete" title="Acesse nosso Facebook" />
           </div></a>
-          <!-- <a title="" href="https://www.instagram.com/"><div class="fundo_icone_social">
-            <img src="<?=WWW?>img/icon-i.png" class="icone_sociais" alt="" title="" />
-          </div></a> -->
+          <a title="Linkedin Blog do Frete" href="https://www.linkedin.com/in/blog-do-frete-a17a9717b/"><div class="fundo_icone_social">
+            <img src="<?=WWW?>img/icon-in.png" class="icone_sociais" alt="Logo Linkedin" title="Acesse nosso Linkedin" />
+          </div></a>
         </div>
       </div>
       <div class="col-md-4">

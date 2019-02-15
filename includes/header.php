@@ -25,12 +25,12 @@
     <meta property="og:url" content="http://blogdofrete.com.br/" />
     <meta property="og:description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber as principais dicas em 1ª mão!" />
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="https://drive.google.com/open?id=1_bk-Pd3u5M18sb86vEgEKIOz2jL1DFhz" />
+    <meta property="og:image" content="http://blogdofrete.com.br/img/radares-em-cabines-automaticas-de-pedagio.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@BlogFrete" />
     <meta name="twitter:title" content="Tudo Sobre Entregas e Fretes Você Encontra Aqui | Blog do Frete" />
     <meta name="twitter:description" content="As principais novidades sobre o mercado de Fretes e Transportadoras você só encontra aqui. Inscreva-se para receber as principais dicas em 1ª mão!" />
-    <meta name="twitter:image" content="https://drive.google.com/open?id=1_bk-Pd3u5M18sb86vEgEKIOz2jL1DFhz" />
+    <meta name="twitter:image" content="http://blogdofrete.com.br/img/radares-em-cabines-automaticas-de-pedagio.jpg" />
     <meta name="twitter:image:alt" content="Blog do Frete" />
     
     <link rel="icon" sizes="16x16" href="<?=WWW?>favicon.png">
@@ -48,4 +48,3 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
   </script>
-  
