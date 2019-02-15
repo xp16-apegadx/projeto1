@@ -34,21 +34,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="destaque">negócios</span>
         <span class="data"> 14 de Fev 2019</span>
       </div>
-        <a href="http://blogdofrete.com.br/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preco-da-gasolina.php" class="link-post" title="ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?">
-          <h2 class="post-title text-center">ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?</h2>
-        </a>
-        <a href="http://blogdofrete.com.br/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preco-da-gasolina.php" title="Diferenças entre carga fracionada e carga completa">
-          <img src="http://blogdofrete.com.br/img/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preço-da-gasolina-blog.png" class="panorama" title="ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?" alt="bolsonaro e a gasolina" />
-        </a>
-        <p class="text-justify">É indiscutível que estamos em tempos de guerras políticas, mas ainda assim, os benefícios que o governo Bolsonaro vem trazendo, principalmente em seu estágio inicial, já são visíveis em todo o Brasil.</p>
-        <div class="separador"></div>          
-    </div>
-
-    <div class="col-lg-12">
-      <div class="data mb-3">
-        <span class="destaque">negócios</span>
-        <span class="data"> 14 de Fev 2019</span>
-      </div>
         <a href="http://blogdofrete.com.br/o-que-e-score-e-por-que-ele-e-importante-na-hora-de-financiar-o-seu-veiculo.php" class="link-post" title="O que é Score e por que ele é importante na hora de financiar o seu veículo?">
           <h2 class="post-title text-center">O que é Score e por que ele é importante na hora de financiar o seu veículo?</h2>
         </a>
@@ -101,6 +86,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <img src="http://blogdofrete.com.br/img/diferencas-carga-fracionada-carga-completa.jpg" class="panorama" title="Carga fracionada ou carga completa: quais as principais diferenças?" alt="Diferenca de Cargas" />
         </a>
         <p class="text-justify">Você sabe quais são as principais diferenças entre carga completa e carga fracionada? Qual delas é melhor para seu negócio? Acompanhe o post e descubra qual a melhor opção para a sua empresa!</p>
+        <div class="separador"></div>          
+    </div>
+
+    <div class="col-lg-12">
+      <div class="data mb-3">
+        <span class="destaque">negócios</span>
+        <span class="data"> 14 de Fev 2019</span>
+      </div>
+        <a href="http://blogdofrete.com.br/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preco-da-gasolina.php" class="link-post" title="ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?">
+          <h2 class="post-title text-center">ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?</h2>
+        </a>
+        <a href="http://blogdofrete.com.br/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preco-da-gasolina.php" title="Diferenças entre carga fracionada e carga completa">
+          <img src="http://blogdofrete.com.br/img/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preço-da-gasolina-blog.png" class="panorama" title="ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?" alt="bolsonaro e a gasolina" />
+        </a>
+        <p class="text-justify">É indiscutível que estamos em tempos de guerras políticas, mas ainda assim, os benefícios que o governo Bolsonaro vem trazendo, principalmente em seu estágio inicial, já são visíveis em todo o Brasil.</p>
         <div class="separador"></div>          
     </div>
 
