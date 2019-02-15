@@ -26,12 +26,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-12 conteudo-post">
         <div class="data mb-3">
-          <span class="destaque">notícias</span>
+          <span class="destaque">negócios</span>
           <span class="data"> 14 de Fev 2019</span>
         </div>    
         
         <h1 class="post-title text-center">ATENÇÃO MOTORISTA! Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?</h1>
-        <img src="http://blogdofrete.com.br/img/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preço-da-gasolina.jpg" class="panorama" title="Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?" alt="bolsonaro e a gasolina" />
+        <img src="http://blogdofrete.com.br/img/voce-sabia-que-o-bolsonaro-pode-ter-influenciado-no-preço-da-gasolina.png" class="panorama" title="Você sabia que o Bolsonaro pode ter influenciado no preço da gasolina?" alt="bolsonaro e a gasolina"/>
       
             <h2><em>É indiscutível que estamos em tempos de guerras políticas, mas ainda assim, os benefícios que o governo Bolsonaro vem trazendo, principalmente em seu estágio inicial, já são visíveis em todo o Brasil.</em></h2>
             
