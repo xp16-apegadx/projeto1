@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-      <h2>  Você também vai gostar:</h2>
+      <h1> Você também vai gostar:</h1>
 
       <p>Frota própria ou terceirizada: quais os custos? (colocar esse link no texto: <a href=" http://blogdofrete.com.br/frota-propria-ou-terceirizada-quais-os-custos.php">Frota própria ou tercerizada quais os custos</a>  
       8 aplicativos imprescindíveis para você, motorista de carga (colocar esse link no texto: <a href="http://blogdofrete.com.br/aplicativos-motoristas-de-carga.php ">Aplicativos motoristas de carga</a>   
