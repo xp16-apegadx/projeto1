@@ -18,8 +18,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="img/logo_cabecalho.png" class="img_logo" alt="Logo Blog do Frete" title="Logo Blog do Frete" />
             <a href="/cadastro.php" class="btn btn-danger float-right mt-5" title="Serviços de frete">Serviços de frete</a>
           </a>
-          <h1 class="titulo-principal">Frete SPOT: dicas para economizar com<br> transporte de emergência</h1>
-        <button type="button" class="btn btn-success d-inline-block mt-4 open-cta" data-toggle="modal" data-target="#modalHeader">Inscreva-se e receba novidades</button>        
+          <h1 class="titulo-principal">Participe do novo evento do Blog do frete</h1>
+        <a href="https://www.sympla.com.br/sambalog---desafios-da-logistica-em-e-commerce__461861" target="_blank"><button type="button" class="btn btn-success d-inline-block mt-4">GARANTA SUA ENTRADA NO EVENTO AGORA!!!</button></a>
+        <!--<a href="https://www.meetup.com/pt-BR/Desafios-da-logistica-no-e-commerce/?success=groupSetup"><button type="button" class="btn btn-success d-inline-block mt-4 open-cta">Confirme sua presença</button></a>-->
       </div>
     </div>
   </div>

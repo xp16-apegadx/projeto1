@@ -6952,7 +6952,8 @@ img {
   border-color: #dc3545; }
 
 .banner-topo {
-  background-image: url("../img/bg_topo.jpg");
+  /*background-image: url("../img/bg_topo.jpg");*/
+  background-image: url("../img/template-landing-sambalog.png");
   width: 100%;
   height: 100vh;
   background-position: center;
